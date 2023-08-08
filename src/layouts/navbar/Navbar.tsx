@@ -1,10 +1,10 @@
 import { BsFillMoonStarsFill } from "react-icons/bs";
-const PDF_FILE_URL ="https://ahmadrashid.netlify.app//Ahmad-CV.pdf"
+const PDF_FILE_URL ="https://ahmadrashid.netlify.app//Ahmad-CV.pdf";
 // const PDF_FILE_URL ="http://localhost:5173/Ahmad-CV.pdf"
 
 const Navbar = () => {
 
-  const downloadFileAtURL = (url)=>{
+  const downloadFileAtURL = (url:any)=>{
     const fileName = url.split("/").pop();
     const aTag = document.createElement("a");
     aTag.href=url;
