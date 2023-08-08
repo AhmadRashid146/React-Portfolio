@@ -8,8 +8,8 @@ import web6 from "../../public/web6.png";
 const Portfolio = () => {
   return (
     <div>
-      <h3 className="text-2xl py-2">Portfolio</h3>
-      <p className="text-md py-5 leading-8 text-gray-800">
+      <h3 className="text-2xl py-2 dark:text-white">Portfolio</h3>
+      <p className="text-md py-5 leading-8 text-gray-800 dark:text-white">
         I build efficient software solutions, write clean code, and collaborate
         with teams to bring innovative ideas to life.Scince the begining of of
         my journey as freelancer i worked for{" "}
@@ -18,7 +18,7 @@ const Portfolio = () => {
         Angular UI development. In addition work in umbraco as well. I ensure
         reliability and scalability in web, mobile, or desktop applications
       </p>
-      <p className="text-md py-5 leading-8 text-gray-800">
+      <p className="text-md py-5 leading-8 text-gray-800 dark:text-white">
         I build efficient software solutions, write clean code, and collaborate
         with teams to bring innovative ideas to life.
       </p>
