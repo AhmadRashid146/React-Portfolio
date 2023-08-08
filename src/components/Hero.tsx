@@ -18,7 +18,7 @@ const Hero = () => {
         </p>
       </div>
       <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-slate-50 ">
-        <a href="https://wa.me/923176762792">
+        <a target="_blank"href="https://wa.me/923176762792">
           <IoLogoWhatsapp />
         </a>
       </div>
