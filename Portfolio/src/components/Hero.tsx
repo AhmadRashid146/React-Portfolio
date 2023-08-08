@@ -9,13 +9,13 @@ const Hero = () => {
     <div className="p-10 pt-0">
       <div className="text-center p-10">
         <h2 className="text-5xl py-2 text-teal-600 font-medium md:text-6xl">
-          Dimitri Marco
+         Muhammad Ahmad Rashid 
         </h2>
-        <h3 className="text-2xl py-2 md:text-3xl">Developer and Designer</h3>
+        <h3 className="text-2xl py-2 md:text-3xl">Frontend Developer </h3>
         <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto">
           I build efficient software solutions, write clean code, and
           collaborate with teams to bring innovative ideas to life. Skilled in
-          Java, Python, or C++, I ensure reliability and scalability in web,
+          HTML,CSSand Tailwind. I ensure reliability and scalability in web,
           mobile, or desktop applications
         </p>
       </div>

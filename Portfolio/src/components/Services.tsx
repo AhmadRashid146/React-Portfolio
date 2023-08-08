@@ -9,8 +9,8 @@ const Services = () => {
       <p className="text-md py-5 leading-8 text-gray-800">
         I build efficient software solutions, write clean code, and collaborate
         with teams to bring innovative ideas to life.Scince the begining of of
-        my journey as freelancer i worked for <span className="text-teal-500">agencies</span>  and  <span className="text-teal-500">startups</span>. Skilled in
-        Java, Python, or C++, I ensure reliability and scalability in web,
+        my journey as freelancer i worked for <span className="text-teal-500">agencies</span>  and  <span className="text-teal-500">startups</span>. Skilled in React and
+        Angular UI development. In addition work in umbraco as well. I ensure reliability and scalability in web,
         mobile, or desktop applications
       </p>
       <p className="text-md py-5 leading-8 text-gray-800">
