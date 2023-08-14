@@ -13,12 +13,11 @@ const Hero = () => {
         <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-white">
           I build efficient software solutions, write clean code, and
           collaborate with teams to bring innovative ideas to life. Skilled in
-          HTML,CSSand Tailwind. I ensure reliability and scalability in web,
-          mobile, or desktop applications
+          HTML,CSSand Tailwind.
         </p>
       </div>
       <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-slate-50 ">
-        <a target="_blank"href="https://wa.me/923176762792">
+        <a target="_blank" href="https://wa.me/923176762792">
           <IoLogoWhatsapp />
         </a>
       </div>
